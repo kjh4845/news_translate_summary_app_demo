@@ -1,0 +1,3 @@
+GNEWS_API_KEY = ""
+DEEPL_API_KEY = ""
+OPENAI_API_KEY = ""
